@@ -117,3 +117,81 @@ Enter your query:
 3. Generate response using sampling  
 
 ---
+
+# 🧠RAG Chatbot 
+
+Now we build a **Retrieval-Augmented Generation (RAG) chatbot** on top of a **fine-tuned TinyLlama model** using **LoRA (PEFT)**.  
+It combines **custom knowledge retrieval (ChromaDB)** with **LLM generation** for more accurate and context-aware responses.
+
+---
+
+## 🚀 Features
+
+- Fine-tuned TinyLlama (LoRA / PEFT)
+- Retrieval-Augmented Generation (RAG)
+- ChromaDB as vector database
+- Sentence Transformers for embeddings
+- Context-aware chatbot
+- Lightweight and efficient (4-bit compatible)
+
+---
+
+## 📁 Project Structure
+
+```
+├── train.py                  # Fine-tuning script
+├── test.py                   # Inference script
+├── retriever.py              # ChromaDB retrieval logic
+├── finetune.jsonl            # Training dataset
+├── model/
+│   ├── finetuned-llama/
+│   └── finetuned-llama-model/
+```
+---
+
+## ⚙️ Installation
+
+```bash
+pip install torch transformers datasets peft bitsandbytes chromadb sentence-transformers
+```
+---
+
+## 📊 Dataset Format
+
+```json
+{"instruction": "Your input", "output": "Expected output"}
+```
+---
+
+## 🧠 RAG Pipeline
+
+This part extends the fine-tuned model using a **RAG architecture**:
+
+### Components
+
+- **LLM** → Fine-tuned TinyLlama  
+- **Vector Store** → ChromaDB  
+- **Embeddings** → Sentence Transformers  
+- **Retriever** → Custom `retrieve()` function  
+---
+
+## 🔄 RAG Flow
+
+1. User query is received  
+2. Query is converted into embeddings  
+3. Relevant documents retrieved from ChromaDB  
+4. Context is injected into prompt  
+5. LLM generates answer using ONLY retrieved context  
+
+---
+
+---
+
+## 📌 Key Advantages of RAG
+
+- Reduces hallucination  
+- Uses external knowledge  
+- Keeps model lightweight  
+- No need to retrain for new data  
+
+---
