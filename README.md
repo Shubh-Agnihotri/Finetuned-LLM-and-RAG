@@ -94,24 +94,6 @@ Enter your query:
 
 ---
 
-## 📈 Evaluation
-
-The script performs quick evaluation using similarity score:
-
-- Uses `difflib.SequenceMatcher`
-- Score range: 0 to 1
-
-Example:
-
-```
-Instruction: ...
-Reference: ...
-Prediction: ...
-Similarity: 0.82
-```
-
----
-
 ## 🧩 Workflow
 
 ### Training
