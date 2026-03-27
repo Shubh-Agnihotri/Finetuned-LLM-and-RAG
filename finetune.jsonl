@@ -1,0 +1,106 @@
+{"instruction": "How do I reboot my router?", "output": "Unplug the router, wait 10 seconds, then plug it back in. It will auto-restart in 1–2 minutes."}
+{"instruction": "I want to check my refund status.", "output": "Sure! Please share your order ID so I can check the refund progress for you."}
+{"instruction": "My device is not charging. What should I do?", "output": "Try using a different cable and power adapter. If the issue continues, clean the charging port and restart the device."}
+{"instruction": "Help me reset my password.", "output": "No worries! Please use the 'Forgot Password' option on the login page. You'll receive a reset link instantly."}
+{"instruction": "How can I update my device software?", "output": "Go to Settings → System Update → Check for updates, then follow the on-screen instructions."}
+{"instruction": "Customer wants to cancel their order.", "output": "Sure! Please provide the order ID and I’ll help you cancel it."}
+{"instruction": "How do I restart the app?", "output": "Close the app completely from recent apps, then open it again. This should refresh everything."}
+{"instruction": "The screen is freezing. What can I do?", "output": "Please restart your device and clear the app’s cache. If it persists, reinstall the app."}
+{"instruction": "Can I change my delivery address?", "output": "Yes! Just share your order ID and the new address. I’ll check if it’s still editable."}
+{"instruction": "How do I turn on Bluetooth?", "output": "Go to Settings → Bluetooth → Toggle it ON. Your device will start scanning for nearby devices."}
+{"instruction": "My order hasn't arrived yet.", "output": "Sorry about that! Share your order ID so I can check the delivery status for you."}
+{"instruction": "The device is overheating.", "output": "Please turn it off for 5–10 minutes, remove any case, and avoid heavy apps until it cools down."}
+{"instruction": "How do I connect to Wi-Fi?", "output": "Go to Settings → Wi-Fi → Select your network → Enter the password to connect."}
+{"instruction": "Customer wants warranty details.", "output": "Sure! Please share your product serial number so I can pull up warranty details."}
+{"instruction": "I can't log into my account.", "output": "Please double-check your email and password. If it still doesn’t work, try resetting the password."}
+{"instruction": "My screen brightness is too low.", "output": "Go to Settings → Display → Adjust brightness slider to your comfort."}
+{"instruction": "How do I factory reset my phone?", "output": "Go to Settings → Backup & Reset → Factory Data Reset. Make sure to back up your data first."}
+{"instruction": "A customer wants help tracking his order.", "output": "Happy to help! Please share the order ID so I can track it for you."}
+{"instruction": "The app keeps crashing.", "output": "Clear the app cache and restart your device. If the issue continues, reinstall the app."}
+{"instruction": "I need to return my product.", "output": "Sure! Please provide your order ID and reason for return so I can assist you."}
+{"instruction": "How do I pair my headphones?", "output": "Turn on Bluetooth on your device, put your headphones in pairing mode, then select them from the list."}
+{"instruction": "I spilled water on my device!", "output": "Turn off the device immediately and keep it in a dry place for 24 hours. Avoid charging it during this time."}
+{"instruction": "Customer forgot their username.", "output": "No worries! Please share the registered email so I can retrieve your username."}
+{"instruction": "How can I disable notifications?", "output": "Go to Settings → Notifications → Select the app → Toggle OFF notifications."}
+{"instruction": "My delivery is late.", "output": "Sorry for the delay! Please share your order ID so I can check the latest update."}
+{"instruction": "How do I clean my device safely?", "output": "Use a soft microfiber cloth slightly dampened with water. Avoid chemicals and abrasive materials."}
+{"instruction": "Can I change my payment method?", "output": "Yes! Please go to the payment page, remove the old method, and add the new one."}
+{"instruction": "The audio is not working.", "output": "Check the volume, disable mute mode, and restart your device. If using headphones, test with another pair."}
+{"instruction": "How do I activate dark mode?", "output": "Go to Settings → Display → Turn on Dark Mode."}
+{"instruction": "Customer wants invoice copy.", "output": "Sure! Please share the order ID and I’ll send the invoice to your email."}
+{"instruction": "I want to delete my account.", "output": "I can assist! Please confirm your registered email and reason for deleting your account."}
+{"instruction": "Why is my battery draining fast?", "output": "Reduce screen brightness, close background apps, and disable GPS/Bluetooth when not needed."}
+{"instruction": "How do I check storage space?", "output": "Go to Settings → Storage to view used and available space."}
+{"instruction": "My fingerprint sensor isn't working.", "output": "Clean the sensor and re-register your fingerprint in Settings → Security → Fingerprint."}
+{"instruction": "Customer asking for delivery date.", "output": "Please share your order ID so I can check the estimated delivery date."}
+{"instruction": "How do I add a new contact?", "output": "Open Contacts → Add New → Enter details → Save."}
+{"instruction": "My device is running slow.", "output": "Restart the device, clear cache, and close unused apps to improve performance."}
+{"instruction": "How to connect device to TV?", "output": "Use a compatible HDMI cable or connect wirelessly via Screen Cast from Settings → Display."}
+{"instruction": "The camera is blurry.", "output": "Wipe the lens gently and restart the camera app. If needed, reset camera settings."}
+{"instruction": "I want to change my email ID.", "output": "Sure! Go to Account Settings → Email → Enter the new email and verify it."}
+{"instruction": "How do I turn off location services?", "output": "Go to Settings → Location → Toggle OFF location access."}
+{"instruction": "Customer wants discount info.", "output": "Currently, we have limited offers. Can you share the product name so I can check available discounts?"}
+{"instruction": "My app won’t update.", "output": "Please clear the app store cache and try again. Ensure you have enough storage."}
+{"instruction": "How to connect a new device?", "output": "Turn on pairing mode on the new device and enable Bluetooth/Wi-Fi on your phone to connect."}
+{"instruction": "The speaker volume is low.", "output": "Check volume settings, disable 'Do Not Disturb,' and clean the speaker grill gently."}
+{"instruction": "How to enable automatic backups?", "output": "Go to Settings → Backup → Enable Auto Backup and choose your account."}
+{"instruction": "Customer wants EMI details.", "output": "Sure! Please share the product name so I can fetch the EMI options for you."}
+{"instruction": "I can't download anything.", "output": "Check your internet connection, free up storage, and restart your device."}
+{"instruction": "How do I close apps running in background?", "output": "Open recent apps and swipe away the apps you want to close."}
+{"instruction": "My keyboard isn’t showing up.", "output": "Restart your device and enable the keyboard from Settings → Language & Input."}
+{"instruction": "How do I check my subscription?", "output": "Go to Account Settings → Subscriptions to view active plans."}
+{"instruction": "Customer wants reschedule delivery.", "output": "Please share the order ID so I can check if rescheduling is possible."}
+{"instruction": "My phone won’t turn on.", "output": "Charge it for at least 15 minutes, then hold the power button for 10 seconds to restart."}
+{"instruction": "How do I update my address?", "output": "Go to Account Settings → Address → Edit → Save changes."}
+{"instruction": "The device keeps vibrating randomly.", "output": "Check notification settings and turn off vibration in Settings → Sound & Vibration."}
+{"instruction": "How do I activate SIM card?", "output": "Insert the SIM, restart your phone, and follow the on-screen activation prompts."}
+{"instruction": "Customer asking for replacement.", "output": "Sure! Please provide your order ID and the issue you're facing so I can help with a replacement."}
+{"instruction": "I forgot my PIN.", "output": "Use the ‘Forgot PIN’ option on the lock screen or reset it through your account security page."}
+{"instruction": "Why is my Bluetooth disconnecting?", "output": "Restart Bluetooth, remove the device from paired list, and pair again."}
+{"instruction": "How to enable hotspot?", "output": "Go to Settings → Hotspot & Tethering → Turn on Mobile Hotspot."}
+{"instruction": "Customer needs usage instructions.", "output": "Sure! Please tell me the product name so I can share instructions."}
+{"instruction": "My camera isn’t opening.", "output": "Restart your device and clear the camera app cache from Settings→Apps."}
+{"instruction": "How do I logout of all devices?", "output": "Go to Account Settings → Security → Logout from all devices."}
+{"instruction": "My notifications are delayed.", "output": "Disable battery optimization for the app from Settings → Battery → App Optimization."}
+{"instruction": "Customer wants shipping charges info.", "output": "Shipping fee depends on location. Please share your pin code."}
+{"instruction": "The mic isn't working.", "output": "Check app permissions in Settings → Permissions → Enable microphone access."}
+{"instruction": "How do I check for malware?", "output": "Install a trusted security app and run a full device scan."}
+{"instruction": "Customer wants installation help.", "output": "Sure! Please share the product name so I can guide you through installation."}
+{"instruction": "Can I pause my subscription?", "output": "Yes, you can pause it from Account Settings → Subscription → Pause."}
+{"instruction": "I want to track my shipment.", "output": "Sure! Please share your order ID and I’ll check the tracking details."}
+{"instruction": "Why is my phone lagging during games?", "output": "Close background apps, enable gaming mode, and lower graphic settings."}
+{"instruction": "How do I remove a device from my account?", "output": "Go to Account Settings → Connected Devices → Remove device."}
+{"instruction": "Customer wants refund timeline.", "output": "Refunds usually take 5–7 business days. Share your order ID so I can confirm status."}
+{"instruction": "My Wi-Fi keeps dropping.", "output": "Restart router, forget and reconnect to the network, and keep your device near the router."}
+{"instruction": "How can I check battery health?", "output": "Go to Settings → Battery → Battery Health to view condition."}
+{"instruction": "The device is stuck on boot screen.", "output": "Hold the power button for 15 seconds to force restart."}
+{"instruction": "How to enable call forwarding?", "output": "Go to Phone App → Settings → Call Forwarding → Add number."}
+{"instruction": "Customer wants product comparison.", "output": "Please tell me the two products you want to compare."}
+{"instruction": "My GPS isn't accurate.", "output": "Enable high accuracy mode from Settings → Location → Mode → High Accuracy."}
+{"instruction": "How do I sync contacts?", "output": "Go to Settings → Accounts → Enable contact sync for your account."}
+{"instruction": "Screen is flickering.", "output": "Reduce brightness and restart device. If it continues, update software."}
+{"instruction": "How to connect printer?", "output": "Install the printer app, connect both devices to same Wi-Fi, and add printer from app."}
+{"instruction": "Customer wants loyalty points info.", "output": "Sure! Share your registered email so I can check your points."}
+{"instruction": "My touch screen isn't responding.", "output": "Clean the screen and restart the device. Remove any thick screen protector."}
+{"instruction": "How do I enable parental controls?", "output": "Go to Settings → Digital Wellbeing → Parental Controls → Set up restrictions."}
+{"instruction": "App notifications not showing.", "output": "Enable notifications from Settings → Notifications → Select app → Toggle ON."}
+{"instruction": "Customer wants to upgrade plan.", "output": "Sure! Please share your current plan and the one you want to upgrade to."}
+{"instruction": "How do I share my screen?", "output": "Open Quick Settings → Screen Cast → Select the device to share screen."}
+{"instruction": "My device restarts on its own.", "output": "Check for software updates and remove recently installed apps that may be causing issues."}
+{"instruction": "How do I change ringtone?", "output": "Go to Settings → Sound → Ringtone → Select your preferred tone."}
+{"instruction": "Customer wants to change quantity in order.", "output": "Please share your order ID so I can check if modification is still allowed."}
+{"instruction": "My mobile data isn't working.", "output": "Toggle airplane mode ON then OFF, restart device, and check APN settings."}
+{"instruction": "How do I disable auto-rotate?", "output": "Swipe down Quick Settings and turn off Auto-Rotate."}
+{"instruction": "The battery is swollen. What do I do?", "output": "Stop using the device immediately and visit an authorized service center for battery replacement."}
+{"instruction": "Customer requesting cancellation policy.", "output": "Our cancellation policy varies by product. Share the product name so I can confirm details."}
+{"instruction": "How do I activate voice assistant?", "output": "Go to Settings → Accessibility → Enable Voice Assistant."}
+{"instruction": "Wi-Fi password not accepted.", "output": "Re-enter the password carefully, restart router, and bring device closer to router."}
+{"instruction": "How do I delete browsing history?", "output": "Open your browser → Settings → Privacy → Clear browsing data."}
+{"instruction": "Customer wants help with coupon code.", "output": "Sure! Share the coupon code and product name, I’ll check its validity."}
+{"instruction": "My device vibrates but no sound.", "output": "Check sound settings, increase volume, and disable Silent mode."}
+{"instruction": "How do I use split-screen?", "output": "Open recent apps → Tap the app icon → Select Split Screen → Choose the second app."}
+{"instruction": "Customer wants to know packaging details.", "output": "All items are securely packed. If you share the product name, I can tell you exactly what’s included in the box."}
+{"instruction": "My SIM isn't detected.", "output": "Restart your device, reinsert SIM properly, and try switching SIM slots."}
+{"instruction": "How do I check data usage?", "output": "Go to Settings → Network & Internet → Data Usage to view usage details."}
+{"instruction": "The app is running slow.", "output": "Clear app cache, restart your device, and ensure you're on the latest app version."}
+{"instruction": "Customer wants seller contact.", "output": "Sure! Please share your order ID and I’ll provide the seller's details."}
