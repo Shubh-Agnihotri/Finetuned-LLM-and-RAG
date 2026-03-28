@@ -1,6 +1,6 @@
 # 🧠 Fine-Tuning TinyLlama with LoRA (PEFT)
 
-This project demonstrates how to fine-tune the **TinyLlama-1.1B-Chat** model using **LoRA (Low-Rank Adaptation)** with Hugging Face libraries. It includes training, inference, and quick evaluation scripts.
+This project demonstrates how to fine-tune the **TinyLlama-1.1B-Chat** model using **LoRA (Low-Rank Adaptation)** with Hugging Face libraries. It includes training, inference, and quick evaluation scripts. The projects also includes developent of RAG based chatbot on top of the Fine Tuned TinyLlama model.
 
 ---
 
