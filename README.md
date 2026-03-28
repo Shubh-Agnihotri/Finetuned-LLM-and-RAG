@@ -118,7 +118,7 @@ Enter your query:
 
 ---
 
-# 🧠RAG Chatbot 
+# 🧠RAG Chatbot with Finetuned TinyLlama model
 
 Now we build a **Retrieval-Augmented Generation (RAG) chatbot** on top of a **fine-tuned TinyLlama model** using **LoRA (PEFT)**.  
 It combines **custom knowledge retrieval (ChromaDB)** with **LLM generation** for more accurate and context-aware responses.
